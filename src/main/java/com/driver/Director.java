@@ -38,4 +38,6 @@ public class Director {
     public void setImdbRating(double imdbRating) {
         this.imdbRating = imdbRating;
     }
+
+
 }
